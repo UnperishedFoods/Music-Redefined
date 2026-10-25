@@ -1,6 +1,16 @@
+<<<<<<< HEAD
+{
+  "pack": {
+    "min_format": 18,
+    "max_format": 97.1,
+    "description": "Refreshed Minecraft music for all listeners!"
+  }
+}
+=======
 {
   "pack": {
     "pack_format": 32,
     "description": "Refreshed Minecraft music!"
   }
 }
+>>>>>>> d1398e58bf49e83686e2c01ccc79ef9abb979d3b
